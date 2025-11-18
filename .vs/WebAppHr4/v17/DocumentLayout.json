@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:51:26.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:47:12.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:41:41.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:17:36.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:13:29.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:12:19.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:11:56.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
