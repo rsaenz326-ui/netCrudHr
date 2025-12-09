@@ -1,34 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\",
+  "WorkspaceRootPath": "C:\\Users\\FRASA\\Documents\\.netCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\models\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:models\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\controllers\\users1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:controllers\\users1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\tec.ingdesarrollo\\source\\repos\\webapphr4\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|c:\\users\\frasa\\documents\\.netcrud\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA3FE92-FE86-44BF-897C-A7DCA83DCE38}|WebAppHr4.csproj|solutionrelative:hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,98 +62,152 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T19:51:26.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T19:47:12.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "Views\\Users\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAB/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T19:41:41.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:17:36.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Users\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Views\\Users\\Create.cshtml",
-              "RelativeToolTip": "Views\\Users\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T19:13:29.711Z",
+              "WhenOpened": "2025-12-08T23:42:08.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Title": "Users1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\Controllers\\Users1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Users1Controller.cs",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\Controllers\\Users1Controller.cs",
+              "RelativeToolTip": "Controllers\\Users1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:12:19.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T22:59:29.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HrContext.cs",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\Models\\HrContext.cs",
+              "RelativeDocumentMoniker": "Models\\HrContext.cs",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\Models\\HrContext.cs",
+              "RelativeToolTip": "Models\\HrContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:41:26.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HrContext.cs",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\HrContext.cs",
+              "RelativeDocumentMoniker": "HrContext.cs",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\HrContext.cs",
+              "RelativeToolTip": "HrContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:37:06.016Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-08T20:09:15.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:47:12.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:41:41.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:12:19.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:51:26.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:17:36.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T19:13:29.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\FRASA\\Documents\\.netCrud\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\FRASA\\Documents\\.netCrud\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:11:56.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T19:11:56.573Z"
             }
           ]
         }

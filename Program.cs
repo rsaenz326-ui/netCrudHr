@@ -10,7 +10,7 @@ var conString = builder.Configuration.GetConnectionString("conexion") ??
      throw new InvalidOperationException("Error cadena de conexion'" +
     " not found.");
 
-builder.Services.AddDbContext<Hr9Context>(options =>
+builder.Services.AddDbContext<HrContext>(options =>
   options.UseMySql(conString, Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.4.32-mariadb")));
 
 

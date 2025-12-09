@@ -15,7 +15,7 @@ public partial class User
 
     public int? StatusId { get; set; }
 
-    public virtual Employee? Employee { get; set; } = null!;
+    public virtual Employee Employee { get; set; } = null!;
 
     public virtual UserStatus? Status { get; set; }
 

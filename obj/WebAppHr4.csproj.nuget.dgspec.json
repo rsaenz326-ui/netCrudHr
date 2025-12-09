@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\WebAppHr4.csproj": {}
+    "C:\\Users\\FRASA\\Documents\\.netCrud\\WebAppHr4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\WebAppHr4.csproj": {
+    "C:\\Users\\FRASA\\Documents\\.netCrud\\WebAppHr4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\WebAppHr4.csproj",
+        "projectUniqueName": "C:\\Users\\FRASA\\Documents\\.netCrud\\WebAppHr4.csproj",
         "projectName": "WebAppHr4",
-        "projectPath": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\WebAppHr4.csproj",
-        "packagesPath": "C:\\Users\\tec.ingdesarrollo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tec.ingdesarrollo\\source\\repos\\WebAppHr4\\obj\\",
+        "projectPath": "C:\\Users\\FRASA\\Documents\\.netCrud\\WebAppHr4.csproj",
+        "packagesPath": "C:\\Users\\FRASA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FRASA\\Documents\\.netCrud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tec.ingdesarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FRASA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

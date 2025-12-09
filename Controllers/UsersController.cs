@@ -11,9 +11,9 @@ namespace WebAppHr4.Controllers
 {
     public class UsersController : Controller
     {
-        private readonly Hr9Context _context;
+        private readonly HrContext _context;
 
-        public UsersController(Hr9Context context)
+        public UsersController(HrContext context)
         {
             _context = context;
         }
